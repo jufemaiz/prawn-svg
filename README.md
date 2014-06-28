@@ -4,7 +4,7 @@ An SVG renderer for the Prawn PDF library.
 
 This will take an SVG file as input and render it into your PDF.  Find out more about the Prawn PDF library at:
 
-  http://wiki.github.com/sandal/prawn/
+  https://github.com/prawnpdf/prawn
 
 prawn-svg is compatible with all versions of Prawn from 0.8.4 onwards, including the version 1.0 series.
 
